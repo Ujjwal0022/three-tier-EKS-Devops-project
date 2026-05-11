@@ -190,10 +190,17 @@ React • Node.js • Express • MongoDB
 
 <img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/3a12e97b-4664-457a-8ee9-b72c43e4e834" />
 
-
 ---
 
 ## ⚙️ Amazon EKS Cluster
 
 <img width="1896" height="900" alt="image" src="https://github.com/user-attachments/assets/c43185ba-c22f-43a2-97bc-8bb7468b1eb9" />
+
+
+
+## 📦 Project Flow
+
+Developer → Docker Build → DockerHub Push  
+→ Kubernetes Manifests → AWS EKS Cluster  
+→ AWS ALB Ingress → Application Deployment 🚀
 
